@@ -1,0 +1,27 @@
+body {
+    background-color: #DAE2DF;
+}
+figcaption{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    overflow: hidden;
+
+}
+h5 {
+     color: #931621;
+}
+footer {
+    background: black;
+    padding: 20px 0;
+    color: white;
+    margin-top: 40px;
+}
+.platinum {
+    background-color: #DAE2DF;
+    
+}
+.white{
+    background-color: #FFFFFF;
+    min-height: 100vh;
+}
